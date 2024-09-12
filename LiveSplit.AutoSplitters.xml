@@ -22848,4 +22848,14 @@
         <Description>Autosplitter and Load Remover (By HandsomeStrife)</Description>
         <Website>https://github.com/HandsomeStrife/speedrun-splits-and-autospltters/blob/main/Time%20Rameside/</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Divinity: Original Sin 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ogam/asl/master/dos2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover</Description>
+    </AutoSplitter>
 </AutoSplitters>
